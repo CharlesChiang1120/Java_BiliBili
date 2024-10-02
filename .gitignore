@@ -1,0 +1,46 @@
+# 編譯產物
+/target/
+/bin/
+*.class
+
+# IntelliJ IDEA 特定文件
+.idea/
+/javacode
+*.iml
+
+# 日誌文件
+*.log
+
+# 系統文件
+.DS_Store
+
+# 臨時文件
+*.tmp
+*.temp
+
+# JRE
+jre/
+
+# Maven 特定文件
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Gradle 特定文件
+.gradle/
+build/
+
+# Eclipse 特定文件
+.classpath
+.project
+.settings/
+
+# MacOS 特定文件
+*.DS_Store
+
+# Linux 特定文件
+*~ 
+# Windows 特定文件
+Thumbs.db
+ehthumbs.db
