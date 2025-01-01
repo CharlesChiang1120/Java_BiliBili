@@ -2,6 +2,7 @@ package chapter02;
 
 /*
     26-变量与运算符-字符类型的使用
+    27-变量与运算符-布尔类型的使用
 */
 
 /*
@@ -41,8 +42,22 @@ public class VariableTest2 {
         char c12 = '1';
         char c13 = 1;
 
+        // 2. boolean
+        // 只有兩個取值: true、false
+        boolean bo1 = true;
+        boolean bo2 = false;
 
+        // 編譯不通過
+//        boolean bo3 = 0;
+        // 常使用在流程控制語句中。e.g. 條件判斷、循環結構
+        boolean isMarried = true;
+        if(isMarried){
+            System.out.println("???");
+        } else {
+            System.out.println("!!!");
+        }
 
+        // 了解：我們不談 boolean 類型佔用的空間大小。但是，真正在內存忠分配的話，使用的是 4 個字節
     }
 
 }
