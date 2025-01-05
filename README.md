@@ -1,6 +1,5 @@
-# Java_BiliBili
-# 影片清單（依分類顯示）
-# [Java](https://www.bilibili.com/video/BV1PY411e7J6/?spm_id_from=333.337.search-card.all.click)
+# Java BiliBili
+## [Java](https://www.bilibili.com/video/BV1PY411e7J6/?spm_id_from=333.337.search-card.all.click)
 
 <details>
   <summary>Java語言概述</summary>
